@@ -36,6 +36,14 @@ Patika Turizm Acentesi, otellerin belirli odalarını rezerve ederek bu odaları
 - mysql
 - swing gui
 
+------------------------------------------------------------------------------------------------------------------------------------------- 
+
+### Kurulum
+- ###### Veritabanı Kurulumu: Veritabanını oluşturmak için src klasöründeki .sql uzantılı dosyayı içe aktarın.
+- ###### Uygulama Başlatma: src içindeki kaynak kodları kullanarak uygulamayı başlatın.
+
+  
+
 --------------------------------------------------------------------------------------------------------------------------------------------
 ## *Proje Tanıtım Videosu*
 https://www.loom.com/share/56aa26ec6b184a8e848f18e49bc1e447?sid=1b4ab3d0-62bf-4d30-9129-00341f33c1ce
